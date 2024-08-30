@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Mihiraja Kuruppu</h1>
-- I'm an undergraduate student majoring in Electronic and Telecommunication Engineering at the University of Moratuwa. A committed and diligent individual with a background in volunteering. Known for being resourceful and organized, with strong leadership and team-building abilities. Always aiming for optimal outcomes and quick to adapt and learn.
+I'm an undergraduate student majoring in Electronic and Telecommunication Engineering at the University of Moratuwa. A committed and diligent individual with a background in volunteering. Known for being resourceful and organized, with strong leadership and team-building abilities. Always aiming for optimal outcomes and quick to adapt and learn.
 
 
 
@@ -26,11 +26,6 @@
     <li>Signal Processing</li>
     <li>Internet of Things</li>
 </ul>
-
-
-
-
-
 
 
 
