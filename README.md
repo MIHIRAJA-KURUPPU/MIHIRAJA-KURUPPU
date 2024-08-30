@@ -27,7 +27,17 @@ I'm an undergraduate student majoring in Electronic and Telecommunication Engine
     <li>Internet of Things</li>
 </ul>
 
+ <p>&#9632; <b>Professional Certification :</b></p>
+ 
 
+  
+<p><a href="https://drive.google.com/file/d/1GJ8u4jiY5fo6OCSsl7tSNLj5jpVcAtVN/view?usp=sharing "target="_blank">The online programme in Python For Beginners(CODL)</a> </p>
+<p><a href="https://www.coursera.org/account/accomplishments/specialization/4LSFV8MTZZLL" target="_blank">Machine Learning Specialization - Coursera, Online</a><p>
+<p><a href="https://www.coursera.org/account/accomplishments/verify/TCARJZQFKXHY" target="_blank">Structuring Machine Learning Projects (DeepLearning.AI)</a> </p>
+<p><a href="https://www.coursera.org/account/accomplishments/verify/5UVNVJU3BJAE" target="_blank">Business Analysis & Process Management - Coursera, Online</a></p>
+<p><a href="https://www.coursera.org/account/accomplishments/verify/KZCV8UEVKVQ4" target="_blank">Project Initiation: Starting a Successful Project - Coursera, Online</a></p>
+<p>Responsive Website Development and Design Specialization - Ongoing</p>
+<p>Data Structures and Algorithms Specialization - Ongoing</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
