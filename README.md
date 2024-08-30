@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Mihiraja Kuruppu</h1>
-- An undergraduate student majoring in Electronic and Telecommunication Engineering at the University of Moratuwa
+- I'm an undergraduate student majoring in Electronic and Telecommunication Engineering at the University of Moratuwa
 
 - 📚 I pursued my studies at **Sivali Central College, Ratnapura**
 
