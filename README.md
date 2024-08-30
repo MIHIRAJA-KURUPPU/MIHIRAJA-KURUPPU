@@ -1,11 +1,36 @@
 <h1 align="center">Hello, I'm Mihiraja Kuruppu</h1>
-- An undergraduate student majoring in **Electronic and Telecommunication Engineering at the University of Moratuwa**
+- An undergraduate student majoring in Electronic and Telecommunication Engineering at the University of Moratuwa
 
 - 📚 I pursued my studies at **Sivali Central College, Ratnapura**
 
-- 📫 How to reach me **mihirajakuruppu123@gmail.com**
+- 📫 Reach me at **mihirajakuruppu123@gmail.com**
+
+- 👣 I’m always on a **Journey of Happiness**
 
 - ⚡ Feel free to call me **Mihi**
+
+<p> &#9632; <b>Skills:</b></p>
+<ul>
+    <li>Programming Languages: Python, C++, C#</li>
+    <li>Microcontroller Expertise: AVR</li>
+    <li>PCB & Enclosure Designing</li>
+</ul>
+
+<p>&#9632; <b>Passions:<b></b></p>
+<ul>
+    <li>Machine Learning</li>
+    <li>Artificial Intelligence</li>
+    <li>Software Engineering</li>
+    <li>Signal Processing</li>
+    <li>Internet of Things</li>
+</ul>
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
