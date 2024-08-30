@@ -35,6 +35,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mihiraja-kuruppu-22770823b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mihiraja-kuruppu-22770823b/" height="30" width="40" /></a>
+<a href="https://fb.com/mihiraja.kuruppu.549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mihiraja.kuruppu.549" height="30" width="40" /></a>
+<a href="https://instagram.com/mihiraja_kuruppu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihiraja_kuruppu/" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
