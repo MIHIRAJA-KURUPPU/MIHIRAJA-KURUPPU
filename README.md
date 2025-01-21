@@ -14,17 +14,19 @@ I'm an undergraduate student majoring in Electronic and Telecommunication Engine
 <p> &#9632; <b>Skills:</b></p>
 <ul>
     <li>Programming Languages: Python, C++, C#</li>
+    <li>Docker and Kubernetes </li>
     <li>Microcontroller Expertise: AVR</li>
     <li>PCB & Enclosure Designing</li>
 </ul>
 
 <p>&#9632; <b>Passions:<b></b></p>
 <ul>
-    <li>Machine Learning</li>
+    <li>Software Engineering- DevOps</li>
+    <li>Computer Vision</li>
+    <li>Machine Learning</li>li>
     <li>Artificial Intelligence</li>
-    <li>Software Engineering</li>
-    <li>Signal Processing</li>
     <li>Internet of Things</li>
+    <li>Signal Processing</li>
 </ul>
 
  <p>&#9632; <b>Professional Certification :</b></p>
