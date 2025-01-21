@@ -23,7 +23,7 @@ I'm an undergraduate student majoring in Electronic and Telecommunication Engine
 <ul>
     <li>Software Engineering- DevOps</li>
     <li>Computer Vision</li>
-    <li>Machine Learning</li>li>
+    <li>Machine Learning</li>
     <li>Artificial Intelligence</li>
     <li>Internet of Things</li>
     <li>Signal Processing</li>
